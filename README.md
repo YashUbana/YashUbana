@@ -19,6 +19,7 @@
 <a href="https://www.hackerrank.com/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashubana789" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashubana789" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashubana789" height="30" width="40" /></a>
+  <a href="https://wakatime.com/badge/user/018db346-772e-471a-bc9e-85c535b2e62b/project/018db348-a587-4215-b871-c3941bc511b3"><img src="https://wakatime.com/badge/user/018db346-772e-471a-bc9e-85c535b2e62b/project/018db348-a587-4215-b871-c3941bc511b3.svg" alt="wakatime"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
