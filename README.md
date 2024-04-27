@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Ubana</h1>
-<h3 align="center">A passionate Android developer from India</h3>
-<center><img alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"></center>
+<h3 align="center">A passionate Android & Java developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashubana" alt="yashubana" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Android Studio**
+- 🌱 I’m currently learning **ReactJS, Core Java**
 
 - 💬 Ask me about **Android**
 
@@ -19,6 +18,7 @@
 <a href="https://www.hackerrank.com/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashubana789" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yashubana789" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yashubana789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashubana789" height="30" width="40" /></a>
+
   <a href="https://wakatime.com/badge/user/018db346-772e-471a-bc9e-85c535b2e62b/project/018db348-a587-4215-b871-c3941bc511b3"><img src="https://wakatime.com/badge/user/018db346-772e-471a-bc9e-85c535b2e62b/project/018db348-a587-4215-b871-c3941bc511b3.svg" alt="wakatime"></a>
 </p>
 
